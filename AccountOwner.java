@@ -1,0 +1,6 @@
+/**
+ * AccountOwner
+ */
+public class AccountOwner {
+
+}
